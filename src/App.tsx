@@ -266,9 +266,9 @@ function App() {
             <div>
               <h3 className="text-lg font-semibold mb-4">Certifications</h3>
               <ul className="space-y-2 text-gray-400">
-                <li>IIMS Certified</li>
+                <li>IRKS Certified</li>
                 <li>Lloyd's Register Approved</li>
-                <li>SAMS Accredited</li>
+                <li>SACS Accredited</li>
                 <li>ISO 9001:2015</li>
               </ul>
             </div>
